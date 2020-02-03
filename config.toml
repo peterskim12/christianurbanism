@@ -1,5 +1,5 @@
 baseURL = "http://christianurbanism.org/"
 languageCode = "en-us"
 title = "Christian Urbanism"
-theme = "ananke"
+theme = "diary"
 publishDir = "docs"
